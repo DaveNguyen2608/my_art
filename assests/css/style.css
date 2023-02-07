@@ -1,0 +1,148 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #f1f1f1;
+}
+
+
+html {
+    
+    scroll-behavior: smooth;
+    font-family:helvetica,arial,sans-serif;
+    
+}
+
+.font_text {
+    font-size: 15px;
+    line-height:1.5;
+    font-family: "Raleway", Arial, sans-serif;
+}
+
+
+#header {
+font-size: 24px;
+vertical-align: middle;
+padding: 24px 16px;
+line-height: 1.5;
+text-decoration: none;
+width: 100%;
+cursor: pointer;
+display: inline-block;
+width: 100%;
+
+}
+
+
+
+#header .header_myart {
+    padding: 8px 16px;
+    text-decoration: none;
+    float: left;
+    color: black;
+}
+
+#header .header_myart:hover {
+    background-color:gainsboro;
+}
+
+#header .header_about {
+    float: right;
+    padding: 8px 16px;
+    text-decoration: none;
+    color: black;
+}
+
+#header .header_about:hover {
+    background-color:gainsboro;
+}
+
+.w3-half {
+    float: left;
+    width: 49.9999%; 
+}
+
+.img_left {
+    float: left;
+    width:49.9999%;
+    margin-bottom: -8px;
+    vertical-align: middle;
+
+}
+
+
+#about {
+
+padding-top: 64px;
+padding-bottom: 64px;
+text-align: center;
+
+}
+.text_about {
+padding-top: 870px;
+font-size: 30px;
+text-align: center;
+line-height: 1.5;
+font-family: "Raleway", Arial, sans-serif;
+
+
+}
+.img_about {
+    width: 300px !important;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    text-align: center;
+}
+
+.form {
+margin: 0px 165.875px 0px 165.875px;
+
+}
+
+.abc {
+margin: 15px 0px;
+}
+
+.text_color {
+    color: #e91e63;
+    font-size: 18px;
+    line-height: 1.5;
+    margin: 18px;
+}
+
+.section {
+    margin: 16px 0px;
+}
+
+.modal_input {
+    border: 1px solid #ccc;
+    width: 100%;
+    padding: 8px;
+    
+}
+.bolder {
+    font-weight: bolder;
+}
+
+#about .hover {
+    border: none;
+    font-size: 15px;
+    background-color: #616161;
+    width: 100%;
+    padding: 8px 16px;
+    color: white;
+}
+
+#about .hover:hover {
+    background-color:#ccc;
+}
+
+.end {
+    font-size: 15px;
+    margin: 16px 0px;
+
+}
+
+.color_link:hover {
+color: greenyellow;
+}
